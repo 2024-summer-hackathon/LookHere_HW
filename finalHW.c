@@ -7,9 +7,9 @@
   #define NUMPIXELS 8
 
   // 조도 센서 핀
-  #define LIGHT_SENSOR_PIN A0
+  #define LIGHT_SENSOR_PIN A0 
 
-  // 네오픽셀 객체 생성
+  // 네오픽셀 객체 생성sf
   Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
   void setup() {
