@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/박초영/OneDrive - 부산소프트웨어마이스터고등학교/바탕 화면/choyoung/자,여기보세요(2024 1학기 AI 전공캠프)/HW",
+      "program": "c:/Users/박초영/OneDrive - 부산소프트웨어마이스터고등학교/바탕 화면/choyoung/자,여기보세요(2024 1학기 AI 전공캠프)/HW/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
