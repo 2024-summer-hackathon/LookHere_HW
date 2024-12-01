@@ -12,9 +12,9 @@
 - 아두이노 우노의 데이터 핀을 브레드보드로 확장 연결하여 조도센서와 네오픽셀을 제어
 
 ### 실제 구현 사진
-<img src="image-2.png" width="400" height="300"/>
-<img src="image-3.png" width="400" height="300"/>
+<img src="하드웨어구현사진1.png" width="400" height="300"/>
+<img src="하드웨어구현사진2.png" width="400" height="300"/>
 
 ### 실제 부스 운영 사진
-![alt text](KakaoTalk_20240925_201827068_02.jpg)
-![alt text](<KakaoTalk_20240925_201827068_05.jpg (1).png>)
+![alt text](<부스 전체 사진.jpg>)
+![alt text](<부스 전체 사진 세로.png>)
