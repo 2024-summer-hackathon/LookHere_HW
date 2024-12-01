@@ -4,7 +4,7 @@
   #define PIN 9
 
   // 네오픽셀 LED의 개수
-  #define NUMPIXELS 8
+  #define NUMPIXELS 8 
 
   // 조도 센서 핀
   #define LIGHT_SENSOR_PIN A0 
