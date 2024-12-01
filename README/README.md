@@ -16,5 +16,5 @@
 <img src="하드웨어구현사진2.png" width="400" height="300"/>
 
 ### 실제 부스 운영 사진
-![alt text](<부스 전체 사진.jpg>)
-![alt text](<부스 전체 사진 세로.png>)
+![README/부스 전체 사진.jpg](<부스 전체 사진.jpg>)
+![alt text](image.png)
