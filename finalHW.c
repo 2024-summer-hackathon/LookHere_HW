@@ -10,7 +10,7 @@
   #define LIGHT_SENSOR_PIN A0 
 
   // 네오픽셀 객체 생성sf
-  Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
+  Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800); 
 
   void setup() {
     // 시리얼 통신 초기화
